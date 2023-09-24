@@ -1,1 +1,1 @@
-# ZodiacSignCalculator
+# 星座判斷器
